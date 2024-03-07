@@ -34,6 +34,8 @@ const styles = StyleSheet.create({
         marginBottom: 10,
         backgroundColor: '#f2f2f2',
         borderRadius: 5,
+        borderBottomWidth: 2, // Added border bottom
+        borderBottomColor: 'black', // Added border color
     },
     button: {
         backgroundColor: 'green',
